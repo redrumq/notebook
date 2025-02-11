@@ -1,1 +1,1 @@
-github pages部署hugo工程．
+github pages部署hugo工程
